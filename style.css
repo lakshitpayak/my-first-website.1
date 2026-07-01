@@ -200,6 +200,24 @@ nav li i{
 
     transition:.3s;
 
+    animation: glow 2s infinite alternate;
+
+    @keyframes glow{
+
+    from{
+
+        box-shadow:0 0 15px #E50914;
+
+    }
+
+    to{
+
+        box-shadow:0 0 40px #E50914;
+
+    }
+
+}
+
 }
 .profile:hover{
 

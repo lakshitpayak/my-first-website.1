@@ -125,3 +125,24 @@ button:hover{
     gap:20px;
 
 }
+.card{
+
+    width:250px;
+
+    height:150px;
+
+    background:#222;
+
+    border-radius:10px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:24px;
+
+    transition:.3s;
+
+}

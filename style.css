@@ -153,3 +153,32 @@ button:hover{
     background:#E50914;
 
 }
+nav ul{
+
+    display:flex;
+
+    gap:35px;
+
+}
+
+nav li{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+nav li i{
+
+    font-size:22px;
+
+    margin-bottom:6px;
+
+}

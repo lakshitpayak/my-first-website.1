@@ -79,3 +79,30 @@ nav li:hover{
     color:#cccccc;
 
 }
+button{
+
+    background:#E50914;
+
+    color:white;
+
+    padding:15px 35px;
+
+    border:none;
+
+    font-size:18px;
+
+    border-radius:5px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+button:hover{
+
+    background:#ff1f2d;
+
+    transform:scale(1.05);
+
+}

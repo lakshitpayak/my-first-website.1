@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lucky's Website</title>
+</head>
+
+<body style="text-align:center; font-family:Arial; background:#f4f4f4;">
+
+    <h1>👋 Hello!</h1>
+
+    <h2>I'm Lucky</h2>
+
+    <p>Welcome to my first website.</p>
+
+    <button>Click Me</button>
+
+</body>
+
+</html>

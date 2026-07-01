@@ -146,3 +146,10 @@ button:hover{
     transition:.3s;
 
 }
+.card:hover{
+
+    transform:scale(1.1);
+
+    background:#E50914;
+
+}
